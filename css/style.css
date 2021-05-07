@@ -108,7 +108,7 @@ a {
     background-color: rgba(18, 18, 20, .9);
     width: 100vw;
     height: auto;
-    padding: 0 10px;
+    padding:0 55px 0 75px;
   }
 
   .navbar__container {
@@ -119,11 +119,11 @@ a {
   }
 
   .logo {
-    font-size: 1.2rem
+    font-size: 1.2rem;
   }
 
   .container__button {
-    display: none
+    display: none;
   }
 
   .container__menu {
@@ -131,11 +131,11 @@ a {
     opacity: 1;
     width: 100vw;
     align-items: center;
-    justify-content: space-evenly
   }
 
   .menu__items {
     flex-direction: row;
+    margin-left: auto
   }
 .items__link{
 margin-bottom: 20px;
